@@ -1,5 +1,4 @@
 #Code for main menu of the Lexathon game
-#Created by Austin Allen
 
 .data
 border: "*****************************************"

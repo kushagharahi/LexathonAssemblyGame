@@ -1,4 +1,3 @@
-#Zachary Sarwar Computer Arch. Project
 #wordBox
 
 #.include "randomLetter.asm"
