@@ -2,7 +2,7 @@ Lexathon
 ========
 
 Final Game Written And Designed By:
-	Christopher Raymond, Juan "Manny" Semidey, Austin Allen, and Zachary Sarwar
+	
 
 (A Simple and Addictive Word Game!)
 
@@ -24,3 +24,5 @@ To RUN:
 Note: 	For best results, close and re-open MARS after completing the game.
 
 Limitation: Not currently supported on Linux
+
+Austin added a line.
