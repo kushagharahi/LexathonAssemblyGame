@@ -2,7 +2,7 @@ Lexathon
 ========
 
 Final Game Written And Designed By:
-	Christopher Raymond, Juan "Manny" Semidey, Austin Allen, and Zachary Sarwar
+	
 
 (A Simple and Addictive Word Game!)
 
